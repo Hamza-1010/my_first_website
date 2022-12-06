@@ -1,2 +1,2 @@
 # spades-demo
-I was busy with travelling so the CSS is not up to spec, but will imporve it with time 
+This is my first website and it serves as a reminder of how much I am improving each day !
